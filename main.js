@@ -62,6 +62,7 @@ let firstName = fullName.slice(0, 6);
 
 
 let fullName = "Fakhri Huseynov";
+let firstName = fullName.slice(0, 6);
 
 
 
